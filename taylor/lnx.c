@@ -30,7 +30,7 @@
 // La differencia es -5.0001124120145715352838001699005740843897447458793200223296496e-9
 
 
-// Kincaid Chapter 1: 100M terms for 10-8 precision
+// Kincaid Chapter 1: ln(2) analysis 100M terms for 10-8 precision
 
 double termino(double x,long int n);
 void printprecisionlnx(double x,double res);
