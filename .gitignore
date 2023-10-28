@@ -1,0 +1,71 @@
+# Temporary
+*~
+# Auto-generated tag files
+tags
+
+# object code, libraries and executables
+a.out
+*.o
+*.so
+*.a
+# this is the extension by default of my gcc executables
+*.gcc
+# this is the extension by default of my clang executables
+*.clang 
+
+
+
+# Latex
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+## Intermediate documents:
+*.dvi
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# beamer
+*.nav
+*.pre
+*.snm
+*.vrb
+
+
+# minted
+_minted*
+*.pyg
+
+
+# Slides (pdfs and generated tex from markdown)
+main.pdf
+slides.tex
+
+
+
+
+
